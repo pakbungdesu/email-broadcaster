@@ -6,7 +6,7 @@ A lightweight, terminal-based utility designed to manage subscriber records via 
 ## 📁 Repository Structure
 
 ```text
-EMAIL-BROADCASTER/
+email-broadcaster/
 ├── .env                  # Local environment variables (API credentials)
 ├── .gitignore            # Excludes logs and sensitive credentials from Git
 ├── broadcast.sh          # Core background email broadcasting automation script
@@ -72,6 +72,7 @@ Save your Mailtrap API parameters directly inside the `.env` file at the root of
 CSV_FILE="subscribers.csv"
 YOUR_ID="your_mailtrap_inbox_id"
 API_TOKEN="your_mailtrap_api_token"
+YOUR_ID="your_mailtrap_id"
 
 ```
 
