@@ -1,0 +1,60 @@
+Sending email to: alice@example.com
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   184    0     0  100   184      0    493 --:--:-- --:--:-- --:--:--   493100   309  100   125  100   184     99    146  0:00:01  0:00:01 --:--:--   246
+Email sent successfully: alice@example.com
+
+Sending email to: bob@example.com
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   300  100   125  100   175    323    453 --:--:-- --:--:-- --:--:--   779
+Email sent successfully: bob@example.com
+
+Sending email to: carol@example.com
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   299  100   125  100   174    305    425 --:--:-- --:--:-- --:--:--   731100   299  100   125  100   174    305    425 --:--:-- --:--:-- --:--:--   729
+Email sent successfully: carol@example.com
+
+Sending email to: dave@example.com
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   305  100   125  100   180    292    421 --:--:-- --:--:-- --:--:--   715
+Email sent successfully: dave@example.com
+
+Sending email to: eve@example.com
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   305  100   125  100   180    327    471 --:--:-- --:--:-- --:--:--   800
+Email sent successfully: eve@example.com
+
+Sending email to: frank@example.com
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   305  100   125  100   180    247    355 --:--:-- --:--:-- --:--:--   603
+Email sent successfully: frank@example.com
+
+Sending email to: grace@example.com
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   298  100   125  100   173    311    430 --:--:-- --:--:-- --:--:--   743
+Email sent successfully: grace@example.com
+
+Sending email to: heidi@example.com
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   305  100   125  100   180    311    448 --:--:-- --:--:-- --:--:--   762
+Email sent successfully: heidi@example.com
+
+Sending email to: ivan@example.com
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   306  100   125  100   181    308    447 --:--:-- --:--:-- --:--:--   757
+Email sent successfully: ivan@example.com
+
+Sending email to: judy@example.com
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   302  100   125  100   177    314    445 --:--:-- --:--:-- --:--:--   758
+Email sent successfully: judy@example.com
+
